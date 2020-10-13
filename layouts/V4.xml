@@ -292,7 +292,7 @@ license: creative commons CC-BY-NC-SA
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0 0</origin>
 			<lineSpacing>2.20</lineSpacing>
-			<selectorOffsetY>-0.01</selectorOffsetY>
+			<selectorOffsetY>0.00</selectorOffsetY>
 			<selectorHeight>0.087</selectorHeight>
 		</textlist> 
 
