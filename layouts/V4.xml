@@ -28,7 +28,16 @@ license: creative commons CC-BY-NC-SA
 		<image name="logo">
 			<path>./../art/png/${system.theme}.png</path>
 		</image>
-	
+		
+         <text name="logoText">
+            <pos>0.02 0.02</pos>
+            <size>0.98 0.126</size>
+            <alignment>center</alignment>
+            <fontSize>0.09</fontSize>
+            <fontPath>./assets/SST.ttf</fontPath>
+            <!--<alignment>left</alignment>-->
+            <color>ffffff</color>
+	     </text>
 	</view>
 <!-- System Details End -->
 
