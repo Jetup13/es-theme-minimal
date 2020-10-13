@@ -112,8 +112,8 @@ license: creative commons CC-BY-NC-SA
 			<fontSize>0.04</fontSize>
 			<pos>0.11 0.165</pos>
 			<size>0.765 0.765</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
+			<alignment>center</alignment>
+			<horizontalMargin>0.00</horizontalMargin>
 			<origin>0 0</origin>
 			<lineSpacing>2.20</lineSpacing>
 			<selectorImagePath>./../assets/box.png</selectorImagePath>
