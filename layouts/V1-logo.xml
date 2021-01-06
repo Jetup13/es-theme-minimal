@@ -27,9 +27,8 @@ license: creative commons CC-BY-NC-SA
 		</image>-->
 
 		<helpsystem name="help">
-			<textColor>00000000</textColor>
-			<iconColor>00000000</iconColor>
-			<pos>1 1</pos>
+			<textColor>7d7d7d</textColor>
+			<iconColor>7d7d7d</iconColor>
 		</helpsystem>
 		
 	  <image name="logo">
