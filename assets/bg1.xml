@@ -13,7 +13,7 @@
       <reflexion>0 0</reflexion>
     </text>
     <carousel name="systemcarousel">
-      <type>horizontal_wheel</type>
+      <type>vertical_wheel</type>
       <pos>0 0</pos>
       <size>1 1</size>
       <origin>0 0</origin>
