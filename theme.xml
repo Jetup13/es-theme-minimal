@@ -306,13 +306,14 @@ License: creative commons CC-BY-NC-SA
   </view>
   
   <variables>
-	  <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
+	  <fullscreenfixSubsetname>Emulationstation Screen Size</fullscreenfixSubsetname>
 	  <backgroundSubsetName>Choose Background</backgroundSubsetName>
   </variables>
   
   <subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
   <include name="ES Header">./header.xml</include>
   <include name="ES Fullscreen">./fullscreen.xml</include>
+  <include name="ES Fullscreen V">./fullscreenv.xml</include>
   </subset>
 
   <subset name="background" displayName="${backgroundSubsetname}">
